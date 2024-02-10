@@ -1,5 +1,6 @@
 #!/bin/bash
 
+mkdir certs
 rm -rf certs/*
 
 # CA
